@@ -1,0 +1,25 @@
+.nojekyll
+  s_31d361717a4e7f::t_7524eb7cdc3b0a 1
+assets/index-OSmMKsxj.css
+  s_31d361717a4e7f::t_7f89968f48ab08 1
+assets/index-Z1fcyfja.js
+  s_31d361717a4e7f::t_3233695fa50496 1-129
+index.html
+  s_31d361717a4e7f::t_1ec421b07f9063 1-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a47206607be5c522f3f9dbc592bdb9872b7a7129",
+  "prompts": {},
+  "sessions": {
+    "s_31d361717a4e7f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f04dc-9500-71b3-9514-e6970970f0d8",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Austin Bedell <abedell@g2.com>"
+    }
+  }
+}
