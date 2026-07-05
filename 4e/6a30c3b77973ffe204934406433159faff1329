@@ -1,0 +1,19 @@
+.github/workflows/deploy-pages.yml
+  s_31d361717a4e7f::t_a36ba3cce0d739 1-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4e6a30c3b77973ffe204934406433159faff1329",
+  "prompts": {},
+  "sessions": {
+    "s_31d361717a4e7f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f04dc-9500-71b3-9514-e6970970f0d8",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Austin Bedell <abedell@g2.com>"
+    }
+  }
+}
