@@ -1,0 +1,21 @@
+assets/index-DSyYfGBY.js
+  s_31d361717a4e7f::t_f039486afbe642 1,9,17,25,33,41,48-49,74,79,99,144
+index.html
+  s_31d361717a4e7f::t_0003fe52821b13 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7d342022a140eb18a5b12dc1e1cf79191541ef1e",
+  "prompts": {},
+  "sessions": {
+    "s_31d361717a4e7f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f04dc-9500-71b3-9514-e6970970f0d8",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Austin Bedell <abedell@g2.com>"
+    }
+  }
+}
