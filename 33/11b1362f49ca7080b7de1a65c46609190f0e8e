@@ -1,0 +1,21 @@
+assets/index-DPTh9jh4.js
+  s_6dcbfcbbb8c214::t_67c45fa2de1f38 1,9,17,25,33,41,43,46,48-49,54,59,64,69,74,79,84,89,94,99,104,109,114,119,124,129,134,139,144
+index.html
+  s_6dcbfcbbb8c214::t_024ca2acc1f923 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3311b1362f49ca7080b7de1a65c46609190f0e8e",
+  "prompts": {},
+  "sessions": {
+    "s_6dcbfcbbb8c214": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "019f04dc-9500-71b3-9514-e6970970f0d8",
+        "model": "unknown"
+      },
+      "human_author": "Austin Bedell <abedell@g2.com>"
+    }
+  }
+}
