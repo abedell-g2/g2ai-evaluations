@@ -1,0 +1,23 @@
+assets/index-CHoGLoL5.js
+  s_31d361717a4e7f::t_d5f5501165df16 144
+assets/index-DBP_nOP-.css
+  s_31d361717a4e7f::t_822c8b6b9ea048 1
+index.html
+  s_31d361717a4e7f::t_59ee90bd3f7053 21-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "016d5723da8a7d4b5c6e3a336d5fcff7f86df67a",
+  "prompts": {},
+  "sessions": {
+    "s_31d361717a4e7f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f04dc-9500-71b3-9514-e6970970f0d8",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Austin Bedell <abedell@g2.com>"
+    }
+  }
+}
