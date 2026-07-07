@@ -1,0 +1,21 @@
+assets/index-BcSlnwQe.js
+  s_31d361717a4e7f::t_be23c21c44d9e7 1,9,17,25,33,41,43-46,48-49,74,79,124,134
+index.html
+  s_31d361717a4e7f::t_69eacf3c85311c 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9cc0c38b7dcdbc1b05f68e1fe97615df1408f859",
+  "prompts": {},
+  "sessions": {
+    "s_31d361717a4e7f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f04dc-9500-71b3-9514-e6970970f0d8",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Austin Bedell <abedell@g2.com>"
+    }
+  }
+}
