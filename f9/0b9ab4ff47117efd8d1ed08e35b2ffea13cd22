@@ -1,0 +1,21 @@
+assets/index-CbYqcU3F.js
+  s_31d361717a4e7f::t_99d19deca0c252 144
+index.html
+  s_31d361717a4e7f::t_c2e57fb6d53c53 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f90b9ab4ff47117efd8d1ed08e35b2ffea13cd22",
+  "prompts": {},
+  "sessions": {
+    "s_31d361717a4e7f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f04dc-9500-71b3-9514-e6970970f0d8",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Austin Bedell <abedell@g2.com>"
+    }
+  }
+}
