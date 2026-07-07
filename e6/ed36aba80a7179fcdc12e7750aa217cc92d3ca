@@ -1,0 +1,23 @@
+assets/index-BvHK3_g4.js
+  s_31d361717a4e7f::t_f1971f0ab43e4d 144
+assets/index-CbazTc3M.css
+  s_31d361717a4e7f::t_b17dc43bf0a1a1 1
+index.html
+  s_31d361717a4e7f::t_f75279ea08ac48 21-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e6ed36aba80a7179fcdc12e7750aa217cc92d3ca",
+  "prompts": {},
+  "sessions": {
+    "s_31d361717a4e7f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f04dc-9500-71b3-9514-e6970970f0d8",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Austin Bedell <abedell@g2.com>"
+    }
+  }
+}
